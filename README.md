@@ -1,2 +1,2 @@
 # agendaTelefonica
-Crud de agenda telefonica usando ReactJs e localstorage
+Crud de agenda telefonica usando ReactJs + Hooks e localstorage
